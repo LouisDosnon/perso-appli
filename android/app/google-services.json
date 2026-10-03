@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070975333534",
+    "firebase_url": "https://appli-perso-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appli-perso",
+    "storage_bucket": "appli-perso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070975333534:android:7715a8721be79e780f778f",
+        "android_client_info": {
+          "package_name": "com.example.appli_perso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070975333534-m4gu7r21mv4feor0qmss8b60toe3boie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appli_perso",
+            "certificate_hash": "f9264b047c79ebfc0ac2779fd74a9de8da91cbfb"
+          }
+        },
+        {
+          "client_id": "1070975333534-i240rnpjkahr8v607dl53l695uq2nk1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxr_OQMQkE7VDgXCb0BOIUGqMVhNMR464"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070975333534-i240rnpjkahr8v607dl53l695uq2nk1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
