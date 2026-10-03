@@ -1,5 +1,5 @@
 // ignore_for_file: file_names, empty_constructor_bodies
-import 'package:appli_perso/Modificateurs/modificateurPerso.dart';
+import 'package:appli_perso/modificateurs/modificateurPerso.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'coupSpeciaux/CPPerso.dart';
